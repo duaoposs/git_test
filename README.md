@@ -1,0 +1,1 @@
+This is duaoposs first git project
